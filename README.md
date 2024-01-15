@@ -1,6 +1,6 @@
 # Question And Answering System using LangChain, Google Palm, FAISS and FastAPI for E-Learning Company
 
-We will be creating Question and Answering System using LangChain, Google palm, FAISS and FastAPI for E-Learning Company based on CSV file that includes FAQs of Codebasics - an E-Learning Company.
+We will be creating Question and Answering System using LangChain, Google palm, FAISS and FastAPI for E-Learning Company based on CSV file 
 
 ## Getting the API Key for using Google Palm
 
@@ -44,8 +44,3 @@ If answer to the question is present in the CSV file:
 
 7 - To shutdown the server - CTRL + C.
 
-## References
-
-1. Special thanks to Mr.Dhaval to create end to end project: https://www.youtube.com/watch?v=AjQPRomyd-k
-2. Langchain Documentation: https://python.langchain.com/docs
-3. FastAPI Documentation: https://fastapi.tiangolo.com
